@@ -88,7 +88,7 @@ I’m passionate about building structured training programs, refining workflows
 
 ## 📫 Let’s Connect
 
-- GitHub: [github.com/your_username](https://github.com/pmccabe5)  
+- GitHub: [github.com/pmccabe5](https://github.com/pmccabe5)  
 - LinkedIn: [linkedin.com/in/patrick-j-mccabe] (linkedin.com/in/patrick-j-mccabe)
 - Website / Blog: [ottersecuritylabs.com](https://www.ottersecuritylabs.com)  
 
