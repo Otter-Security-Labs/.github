@@ -1,7 +1,7 @@
 # Hi there 👋 I’m Patrick McCabe  
 **Cybersecurity Engineer | Threat Detection | Incident Response**  
 
-📍 Memphis, TN  
+📍 North Charleston, SC
 🔗 [ottersecuritylabs.com](https://www.ottersecuritylabs.com)  
 
 ---
